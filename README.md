@@ -1,2 +1,2 @@
 # EC3882-G01
-Este repr
+Este repocitorio contendra los archivos del grupo 01.
